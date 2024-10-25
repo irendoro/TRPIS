@@ -1,0 +1,20 @@
+From 71164e53def169695a61434e413d7a2f076a92db Mon Sep 17 00:00:00 2001
+From: urraswow <urraswow@student.21-school.ru>
+Date: Fri, 25 Oct 2024 12:30:31 +0300
+Subject: [PATCH 2/2] added second file
+
+---
+ file2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..1c59427
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++second file
+-- 
+2.34.1
+

@@ -1,0 +1,20 @@
+From d02868f02cc63fe29fe0b448629801a0d2b8e3ab Mon Sep 17 00:00:00 2001
+From: urraswow <urraswow@student.21-school.ru>
+Date: Fri, 25 Oct 2024 12:29:54 +0300
+Subject: [PATCH 1/2] added first file
+
+---
+ file1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file1.txt
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..303ff98
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++first file
+-- 
+2.34.1
+
