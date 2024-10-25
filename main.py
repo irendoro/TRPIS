@@ -8,6 +8,7 @@ def main():
     print(f"File Content:\n{content}")
     print("Happy house!")
     print("Vsem privet")
+    #poror
 
 if __name__ == "__main__":
     main()
