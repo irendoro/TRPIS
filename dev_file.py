@@ -5,3 +5,6 @@ print("Full happy house")
 print('Updated for squash dev2 file')
 
 print("Full happy house")
+print('Updated for squash dev2 file')
+
+print("Full happy house")
