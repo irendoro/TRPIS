@@ -3,6 +3,7 @@ def write_file(filename, content):
         file.write(content)
     print(f"Content written to {filename}")
     print("Success")
+    print("Aloha")
 
 def read_file(filename):
     try:
