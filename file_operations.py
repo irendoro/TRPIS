@@ -5,6 +5,7 @@ def write_file(filename, content):
     print("Success")
 
 def read_file(filename):
+    print('This function of read')
     try:
         with open(filename, 'r') as file:
             return file.read()
