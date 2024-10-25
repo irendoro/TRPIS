@@ -11,3 +11,4 @@ def read_file(filename):
             return file.read()
     except FileNotFoundError:
         return f"File {filename} not found."
+# Hakuna Matata
